@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sahil-fndev
-- 👀 I’m interested in front end developer
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👋 Hi, I’m **Sahil**
+- 👀 I’m interested in **front end developer**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**
 <!--- - 📫 How to reach me ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
