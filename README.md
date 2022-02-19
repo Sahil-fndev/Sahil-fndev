@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Sahil </h1>
 
-- 👀 I’m interested in <strong>Front End Developer<strong>
-- 🌱 I’m currently learning <strong>HTML, CSS, and JavaScript</strong>
+- 👀 I’m interested in <strong>Software Engineering<strong>
+- 🌱 I’m currently learning <strong>JavaScript</strong>
 
 
 <!-- - 👋 Hi, I’m **Sahil** 
