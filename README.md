@@ -1,12 +1,10 @@
-<h1 align="center"> Hi 👋, I'm Sahil </h1>
+<h1 align="center"> Hello 👋, I'm Sahil </h1>
 
-- 👀 I’m interested in <strong>Software Engineering<strong>
 - 🌱 I’m currently learning <strong>JavaScript</strong>
 
-
 <!-- - 👋 Hi, I’m **Sahil** 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
-
+- 🌱 I’m currently learning
+- 👀 I’m interested in.
 
  - 📫 How to reach me ...
  - 💞️ I’m looking to collaborate on ... --->
